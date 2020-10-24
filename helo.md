@@ -1,2 +1,2 @@
-#Hello Git
-Hallo Github
+# Hello Git
+Halo Github Hacktoberfest Tutorial
